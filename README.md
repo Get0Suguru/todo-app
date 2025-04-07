@@ -30,8 +30,7 @@ Include them in README like this:
 md
 Copy
 Edit
-![Homepage](src/screenshots/homepage.png)
-![Add Task](src/screenshots/add-task.png)
+![Homepage](homepage.png)
 
 🧪 How to Run Locally
 1️⃣ MySQL Setup
